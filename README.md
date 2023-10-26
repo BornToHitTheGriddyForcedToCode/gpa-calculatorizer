@@ -2,8 +2,6 @@
 
 gpa calculator for honors AP computer science 
 
-The README file ain't that important, but the main.py is. why I never changed the name? 
+The README file ain't that important, but the main.py is
 
-uhhhh
-
-it wouldn't work idk
+have fun
